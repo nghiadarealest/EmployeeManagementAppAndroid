@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.department.DepartmentActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:orientation="horizontal"
+        android:background="@color/colorPrimary"
+        android:paddingStart="10dp">
+
+        <ImageView
+            android:id="@+id/image_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/back_icon"
+            android:padding="8dp"
+            android:src="@drawable/ic_back"
+             app:tint="@color/colorIcon"
+             />
+
+        <TextView
+            android:id="@+id/text_department_list"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingTop="10dp"
+            android:paddingBottom="15dp"
+            android:text="@string/department_list"
+            android:textColor="@color/textColor"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <EditText
+        android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_dept_hint"
+        android:id="@+id/search_input"
+        android:visibility="visible"/>
+
+    <ListView
+        android:id="@+id/department_listview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/colorBack"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/button_add_department"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="end"
+        android:layout_margin="20dp"
+        android:text="+"
+        android:textSize="25sp"
+        android:textColor="@color/textColor"
+        android:background="@drawable/rounded_button_background" />
+
+</LinearLayout>

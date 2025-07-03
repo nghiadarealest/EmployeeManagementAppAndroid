@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">2PN</string>
+    <string name="employee_image">Hình ảnh nhân viên</string>
+    <string name="title_activity_settings">Cài đặt</string>
+
+    <!-- Home -->
+    <string name="list">Danh sách nhân viên</string>
+    <string name="search_hint">Tìm kiếm</string>
+    <string name="menu_icon">Biểu tượng Menu</string>
+    <string name="settings_icon">Biểu tượng Cài đặt</string>
+    <string name="departments_icon">Biểu tượng Phòng ban</string>
+    <string name="no_employees_found">Không tìm thấy nhân viên</string>
+    <string name="error_loading_employees">Lỗi khi tải danh sách nhân viên</string>
+
+    <!-- Menu Panel -->
+    <string name="menu_title">Menu</string>
+    <string name="menu_departments">Phòng ban</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="menu_user">Người dùng</string>
+    <string name="menu_role">Vai trò</string>
+    <string name="menu_permission">Phân quyền</string>
+
+    <string name="menu_logout">Đăng xuất</string>
+
+    <!-- Details -->
+    <string name="DetailsTitle">Thông tin</string>
+    <string name="DetailsUpdate">Cập nhật thông tin</string>
+    <string name="back_icon">Quay lại</string>
+    <string name="validate_icon">Xác nhận</string>
+
+    <!-- Add Employee -->
+    <string name="AddTitle">Thêm thông tin</string>
+    <string name="gallery_title">Thư viện</string>
+    <string name="camera_title">Máy ảnh</string>
+    <string name="name_title">Tên</string>
+    <string name="surname_title">Họ</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="email_title">Email</string>
+    <string name="department_title">Phòng ban</string>
+    <string name="position_title">Chức vụ</string>
+    <string name="residence_title">Địa chỉ</string>
+    <string name="first_name_hint">Nhập họ</string>
+    <string name="last_name_hint">Nhập tên</string>
+    <string name="phone_hint">Nhập số điện thoại</string>
+    <string name="mail_hint">Nhập email</string>
+    <string name="department_hint">Chọn phòng ban</string>
+    <string name="position_hint">Chọn chức vụ</string>
+    <string name="residence_hint">Nhập địa chỉ</string>
+    <string name="gender_title">Giới tính</string>
+    <string name="gender_hint">Chọn giới tính</string>
+    <string name="status_title">Trạng thái</string>
+    <string name="hire_date_title">Ngày vào làm</string>
+    <string name="hire_date_hint">Nhập ngày vào làm (VD: 2025-05-19)</string>
+    <string name="salary_title">Mức lương</string>
+    <string name="salary_hint">Nhập mức lương</string>
+
+    <!-- Department -->
+    <string name="department_list">Danh sách phòng ban</string>
+    <string name="search_dept_hint">Tìm kiếm phòng ban…</string>
+    <string name="add_department_title">Thêm phòng ban</string>
+    <string name="dept_name_title">Tên phòng ban</string>
+    <string name="dept_name_hint">Nhập tên phòng ban</string>
+    <string name="dept_positions_title">Chức vụ</string>
+    <string name="dept_positions_hint">Nhập các chức vụ (phân tách bằng dấu phẩy)</string>
+    <string name="fill_all_fields">Vui lòng điền đầy đủ các trường</string>
+    <string name="department_added_success">Thêm phòng ban thành công</string>
+    <string name="department_added_failed">Thêm phòng ban thất bại</string>
+    <string name="department_details">Chi tiết phòng ban</string>
+    <string name="department_name">Tên phòng ban</string>
+    <string name="department_positions">Chức vụ</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="invalid_department_id">ID phòng ban không hợp lệ</string>
+    <string name="department_not_found">Không tìm thấy phòng ban</string>
+    <string name="confirm_delete">Xác nhận xóa</string>
+    <string name="delete_department_message">Bạn có chắc chắn muốn xóa phòng ban này không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="department_deleted_success">Xóa phòng ban thành công</string>
+    <string name="department_deleted_failed">Xóa phòng ban thất bại</string>
+    <string name="edit_department">Sửa phòng ban</string>
+    <string name="department_updated_success">Cập nhật phòng ban thành công</string>
+    <string name="department_updated_failed">Cập nhật phòng ban thất bại</string>
+    <string name="error_loading_departments">Lỗi khi tải danh sách phòng ban</string>
+    <string name="cannot_delete_department">Không thể xóa phòng ban vì có nhân viên liên quan</string>
+
+    <!-- Preference Titles -->
+    <string name="params_header">Cài đặt</string>
+    <string name="language_title">Ngôn ngữ</string>
+    <string name="theme_title">Đổi giao diện</string>
+    <string name="theme_on">Chế độ sáng</string>
+    <string name="theme_off">Chế độ tối</string>
+
+    <!-- Employee Messages -->
+    <string name="employee_added_success">Thêm nhân viên thành công</string>
+    <string name="employee_added_failed">Thêm nhân viên thất bại</string>
+    <string name="employee_updated_success">Cập nhật nhân viên thành công</string>
+    <string name="employee_updated_failed">Cập nhật nhân viên thất bại</string>
+    <string name="employee_deleted_success">Xóa nhân viên thành công</string>
+    <string name="employee_deleted_failed">Xóa nhân viên thất bại</string>
+    <string name="no_departments_found">Không tìm thấy phòng ban</string>
+    <string name="select_department">Chọn phòng ban</string>
+    <string name="cancel">Hủy</string>
+    <string name="all_departments">Tất cả phòng ban</string>
+    <string name="selected">Đã chọn</string>
+    <string name="employees_in_department">Nhân viên trong %1$s</string>
+
+    <!--User-->
+    <string name="user_list">Danh sách người dùng</string>
+    <string name="user_detail">Chi tiết người dùng</string>
+    <string name="edit_user">Sửa người dùng</string>
+    <string name="add_user_title">Thêm người dùng</string>
+    <string name="username">Tên người dùng</string>
+    <string name="password">Mật khẩu</string>
+
+
+    <!--Role-->
+    <string name="role_list">Danh sách vai trò</string>
+    <string name="role_detail">Chi tiết vai trò</string>
+    <string name="role_add">Thêm vai trò</string>
+    <string name="role_name">Tên vai trò</string>
+    <string name="select_role">Chọn vai trò</string>
+    <string name="choose_permission_for_role">Chọn quyền cho role</string>
+
+    <!-- Permission -->
+    <string name="permission_list">Danh sách quyền</string>
+    <string name="add_permission_title">Thêm quyền</string>
+    <string name="permission_name_title">Tên quyền</string>
+    <string name="per_name_hint">Nhập tên quyền</string>
+    <string name="edit_per">Sửa quyền</string>
+    <string name="per_details">Chi tiết quyền</string>
+
+
+
+    <!-- Mess -->
+    <string name="added_success">Thêm thành công</string>
+    <string name="added_failed">Failed to add</string>
+    <string name="invalid_id">ID không hợp lệ</string>
+    <string name="not_found">Không tìm thấy</string>
+    <string name="not_empty">Không được để trống</string>
+    <string name="delete_message">Bạn có chắc chắn muốn xóa không?</string>
+    <string name="deleted_success">Xóa thành công</string>
+    <string name="deleted_failed">Xóa thất bại</string>
+    <string name="update_success">Cập nhật thành công</string>
+    <string name="update_failed">Cập nhật thất bại</string>
+    <string name="search">Tìm kiếm …</string>
+    <string name="error">Lỗi: Không tìm thấy giao diện</string>
+
+
+    <string name="delete_confirm_title">Xác nhận xóa</string>
+    <string name="delete_confirm_message">Bạn có chắc chắn muốn xóa nhân viên này không?</string>
+    <string name="delete_positive">Xóa</string>
+    <string name="delete_negative">Hủy</string>
+    <string name="delete_success">Đã xóa nhân viên thành công</string>
+    <string name="delete_failure">Xóa nhân viên thất bại</string>
+
+    <string name="invalid_phone">Số điện thoại phải gồm đúng 10 số</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="image_processing_failed">Xử lý ảnh đại diện thất bại</string>
+    <string name="invalid_salary">Mức lương không hợp lệ</string>
+    <string name="employee_add_failed">Thêm nhân viên thất bại</string>
+    <string name="delete_confirmation">Bạn có chắc chắn muốn xóa không?</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="gender_options">Giới tính</string>
+
+    <string name="role_not_empty">Tên vai trò không được để trống</string>
+    <string name="please_choose">Vui lòng chọn ít nhất 1 quyền</string>
+
+    <string name="username_pasword_notempty">Tài khoản và mật khẩu không được để trống</string>
+    <string name="login_success">Đăng nhập thành công</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="password_not_match">Mật khẩu không khớp</string>
+    <string name="reg_success">Đăng ký thành công</string>
+    <string name="reg_failed">Đăng nhập thất bại</string>
+
+    <string name="logout_confirm_title">Xác nhận đăng xuất</string>
+    <string name="logout_confirm_message">Bạn có chắc chắn muốn đăng xuất?</string>
+    <string name="logout_confirm_yes">Đăng xuất</string>
+    <string name="logout_confirm_no">Huỷ</string>
+
+    <string-array name="gender_options">
+        <item>Nam</item>
+        <item>Nữ</item>
+        <item>Khác</item>
+    </string-array>
+
+    <string-array name="employment_status_options">
+        <item>Đang làm việc</item>
+        <item>Đã Nghỉ</item>
+        <item>Đang nghỉ thai sản</item>
+    </string-array>
+
+</resources>

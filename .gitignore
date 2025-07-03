@@ -1,0 +1,39 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio & IntelliJ
+
+*.iml
+
+# Build folders
+/build/
+**/build/
+
+# Log files
+*.log
+
+# Local properties
+local.properties
+
+# Gradle cache
+.gradle/
+
+# APK, dex, class files
+*.apk
+*.dex
+*.class
+
+

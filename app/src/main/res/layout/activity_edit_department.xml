@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Toolbar with background color updated -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:paddingStart="10dp">
+
+        <ImageView
+            android:id="@+id/image_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="@string/back_icon"
+            android:padding="8dp"
+            android:src="@drawable/ic_back"
+             app:tint="@color/colorIcon"
+             />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="20sp"
+            android:gravity="center_vertical"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            android:text="@string/edit_department"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/textColor" />
+
+        <ImageView
+            android:id="@+id/image_validate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="8dp"
+            app:tint="@color/colorIcon"
+            android:src="@drawable/ic_check"
+            android:contentDescription="@string/validate_icon" />
+    </LinearLayout>
+
+    <!-- Nội dung chỉnh sửa department -->
+    <EditText
+        android:id="@+id/edittext_dept_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/department_name"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/edittext_dept_positions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/department_positions"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>

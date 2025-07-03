@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4E89AF</color>
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#666666</color>
+    <color name="colorBack">#ffffff</color>
+    <color name="selected_item_background">#E0E0E0</color>
+    <color name="selected_item_text">#6200EE</color>
+
+    <color name="colorIcon">#EBFADB</color>
+    <color name="colorMenuIcon">#4E89AF</color>
+
+    <color name="colorDetail">#FFFFFF</color>
+    <color name="colorGray">#333333</color>
+    <color name="colorWhite">#000000</color>
+    <color name="backgroundGray">#F0F0F0</color>
+
+    <color name="status_active">#007608</color>
+    <color name="status_inactive">#FF2222</color>
+    <color name="status_maternity">#CC7A96</color>
+
+</resources>
