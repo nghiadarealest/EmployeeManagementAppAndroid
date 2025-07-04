@@ -2,10 +2,10 @@
 
 ## 🎯 Mục Tiêu Đề Tài
 
-Đề tài tập trung vào việc quản lý dự án xây dựng một phần mềm quản lý hồ sơ nhân sự với các chức năng cơ bản và thiết yếu, phù hợp cho việc triển khai trong các doanh nghiệp vừa và nhỏ, tổ chức giáo dục hoặc cơ quan hành chính. 
-### Phạm vi nghiên cứu cụ thể như sau:
+Đề tài tập trung vào việc quản lý dự án xây dựng một phần mềm quản lý hồ sơ nhân sự với các chức năng cơ bản và thiết yếu, phù hợp cho việc triển khai trong các doanh nghiệp vừa và nhỏ, tổ chức giáo dục hoặc cơ quan hành chính. Phạm vi nghiên cứu cụ thể như sau:
 Về nghiệp vụ: Quản lý thông tin cá nhân của nhân sự: họ tên,  địa chỉ, số điện thoại, email,... Quản lý quá trình làm việc: phòng ban, chức vụ. Chức năng tìm kiếm.
 Về kỹ thuật: Thiết kế và xây dựng phần mềm dạng ứng dụng mobile. Sử dụng các công cụ phổ biến như: ngôn ngữ lập trình Java, cơ sở dữ liệu SQLite.
+
 ---
 
 
