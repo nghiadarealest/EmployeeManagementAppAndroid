@@ -50,6 +50,26 @@ Về kỹ thuật: Thiết kế và xây dựng phần mềm dạng ứng dụng
 #### Đăng nhập, đăng ký
 ![image](https://github.com/user-attachments/assets/0b7af7ff-1839-4318-be52-0c129dfd8e8c)
 ![image](https://github.com/user-attachments/assets/f33bb9b2-1cfa-4994-8d9f-a9ced7af962d)
+#### Trang chủ
+![image](https://github.com/user-attachments/assets/ec3d0ed6-3e88-49e7-9722-59a5f85df091)
+#### Thanh bên
+![image](https://github.com/user-attachments/assets/24553e2e-a576-4d90-a6db-ff037ddba89d)
+#### Chi tiết nhân sự
+![image](https://github.com/user-attachments/assets/b37920df-a3ab-4fe5-a392-798bab106e22)
+#### Sắp xếp theo phòng ban
+![image](https://github.com/user-attachments/assets/531dfb14-723d-443c-8703-2934f4770970)
+#### Quản lý phòng ban
+![image](https://github.com/user-attachments/assets/6dc078cf-029b-4211-b2c0-4bc912b06b2d)
+#### Quản lý tài khoản người dùng
+![image](https://github.com/user-attachments/assets/d6abb92b-078c-4350-a752-a7c8b1fb6c77)
+#### Quản lý phân quyền
+![image](https://github.com/user-attachments/assets/9cc2a41d-f924-40ba-850c-bb71cc2084d2)
+#### Cài đặt
+![image](https://github.com/user-attachments/assets/59ad94f8-f90e-4076-ad28-757dbdca7b6e)
+![image](https://github.com/user-attachments/assets/b245afdb-d916-450d-b62c-1bc93bc1f758)
+![image](https://github.com/user-attachments/assets/c5cb13dc-5f2b-4b14-a9c9-df8e8204cbcb)
+#### Giao diện tối
+![image](https://github.com/user-attachments/assets/041acb83-c59c-4c29-be4c-a83f8fefdf4e)
 
 ---
 
