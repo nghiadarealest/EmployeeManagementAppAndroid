@@ -11,8 +11,10 @@ Về kỹ thuật: Thiết kế và xây dựng phần mềm dạng ứng dụng
 
 
 ### 1. Sơ đồ phân cấp chức năng (Functional Decomposition Diagram)
+![image](https://github.com/user-attachments/assets/d9567588-6043-4f97-9dcf-4ade4f94e12f)
 
 ### 2. Sơ đồ Use Case tổng quát
+![image](https://github.com/user-attachments/assets/e516c29d-d05f-44de-97be-8a026c0dc73b)
 
 ### 3. Sơ đồ Use Case - Người dùng và Nhân sự
 
